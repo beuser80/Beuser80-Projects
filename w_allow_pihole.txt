@@ -3,3 +3,5 @@ microsoft.com
 slack.com
 duo.com
 data.microsoft.com
+contactservice.zoom.us
+zoom.us
